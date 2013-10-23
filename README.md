@@ -1,9 +1,11 @@
-# WOWKI - Awesome wiki for yourself 骚基 #
+# WOWKI - Your Awesome WIKI 骚基 #
 *aka the coder.awiki project*
 
-a cool wiki for dev team.
+By Allen Galler and many future contributors!
 
-向wikia致敬。  
+致敬
+----
+此项目向wikia致敬：   
 从如下两个经典美剧的WIKI可以看出Wikia的模式actually works, 内容详尽有趣。   
    
 [Breaking Bad Wiki](http://breakingbad.wikia.com/wiki/Breaking_Bad_Wiki)   
