@@ -1,5 +1,5 @@
-# wowki - a awesome wiki system 骚基 #
-* aka the coder.awiki project *
+# WOWKI - Awesome wiki for yourself 骚基 #
+*aka the coder.awiki project*
 
 a cool wiki for dev team.
 
