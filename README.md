@@ -1,7 +1,16 @@
-# WOWKI - Your Awesome WIKI 骚基 #
+# Station - Your Knowledge Together #
 *aka the coder.awiki project*
 
-By Allen Galler and many future contributors!
+About
+-----
+
+
+Features
+--------
+
+Guide
+-----
+
 
 致敬
 ----
