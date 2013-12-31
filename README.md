@@ -3,7 +3,8 @@
 
 About
 -----
-
+This is redesigned project managemnet product which aimed to build   
+painless project management experience.   
 
 Features
 --------
